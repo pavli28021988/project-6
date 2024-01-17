@@ -1,0 +1,12 @@
+﻿//  https://html.com/attributes/input-pattern/
+
+//  https://regexr.com/3bfsi
+
+//  https://blog.aashish-panthi.com.np/client-side-form-validation-basics
+
+//  https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/
+
+
+//   https://css-tricks.com/form-validation-part-1-constraint-validation-html/
+
+//how to store user passwords->   https://rangle.io/blog/how-to-store-user-passwords-and-overcome-security-threats-in-2017
